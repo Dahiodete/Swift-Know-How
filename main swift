@@ -1,3 +1,14 @@
-import Uikit
+import Foundation
 
-var hacktober = "Hello Swift"
+
+///STRINGS
+print("Hello World")
+
+var myName = "Peter"
+var lastName = "Parker"
+
+print("Hello \(myName)! How are you?")
+
+var fullname = myName + " " +  lastName
+
+print(fullname)
